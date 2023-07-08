@@ -1,1 +1,1 @@
-The Repor for Robot Operarating System (ROS) with Gazebo Projects.
+The Repo for Robot Operarating System (ROS) with Gazebo Projects.
