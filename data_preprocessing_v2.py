@@ -93,8 +93,8 @@ def process_csv(input_file_path, output_file_path):
     result_df.to_csv(output_file_path, index=False, sep=';')
 
 # Define input and output file paths
-input_file_path = "D:/SIRKET_DOKUMANLARI/AGU_BIGG_DOKUMANLAR/VERI_TOPLAMA/Kayseri_SH/nevasoft_colab.csv"
-output_file_path = "D:/SIRKET_DOKUMANLARI/AGU_BIGG_DOKUMANLAR/VERI_TOPLAMA/Kayseri_SH/output_deneme_18.csv"
+input_file_path = ""
+output_file_path = ""
 
 # Process the CSV files
 process_csv(input_file_path, output_file_path)
